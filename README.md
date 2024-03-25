@@ -1,4 +1,4 @@
-# [Cristóbal Riffo Araya]'s Portfolio
+# Cristóbal Riffo Araya's Portfolio
 
 Welcome to my GitHub portfolio! This repository serves as a showcase of my projects, skills, and experience in [Web Developer].
 
@@ -30,7 +30,7 @@ I'm a professional Software Developer passionate about work in a Team Developer.
 ## Contact Me
 
 - **Email:** crisstofer67@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/newsletters/techzone-7091814751202107392/](https://www.linkedin.com/in/cristobal-riffo-araya-b92b16222/)
+- **LinkedIn:** [https://www.linkedin.com/in/cristobal-riffo-araya-b92b16222/]
 
 ## Acknowledgements
 
