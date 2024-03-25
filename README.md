@@ -1,6 +1,6 @@
 # Cristóbal Riffo Araya's Portfolio
 
-Welcome to my GitHub portfolio! This repository serves as a showcase of my projects, skills, and experience in [Web Developer].
+Welcome to my GitHub portfolio! This repository serves as a showcase of my projects, skills, and experience in Web Developer.
 
 ## About Me
 
@@ -11,12 +11,12 @@ I'm a professional Software Developer passionate about work in a Team Developer.
 ### SuplexShop
 - **Description:** E-commerce oriented by suplement products.
 - **Technologies Used:** Django, SqLite, JavaScript and JQuery.
-- **Link:** [[Link to the project repository or live demo]](https://github.com/EliezerRamirezRuiz/Suplex)
+- **Link:** [SuplexShop](https://github.com/EliezerRamirezRuiz/Suplex)
 
 ### MusicPro (only services Backend)
 - **Description:** E-commerce oriented by musical instrument products.
 - **Technologies Used:** Spring Boot.
-- **Links:** [[Link to the project repository or live demo]](https://github.com/JimmyRojasE/bff_service_product), https://github.com/JimmyRojasE/svc_service_product, https://github.com/JimmyRojasE/bd_service_product
+- **Links:** [BFF_services](https://github.com/JimmyRojasE/bff_service_product), [SVC services](https://github.com/JimmyRojasE/svc_service_product), [DB Services](https://github.com/JimmyRojasE/bd_service_product)
 
 [Add more projects as needed]
 
@@ -30,7 +30,7 @@ I'm a professional Software Developer passionate about work in a Team Developer.
 ## Contact Me
 
 - **Email:** crisstofer67@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/cristobal-riffo-araya-b92b16222/]
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/cristobal-riffo-araya-b92b16222/)
 
 ## Acknowledgements
 
