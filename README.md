@@ -1,4 +1,4 @@
-# Cristóbal Riffo Araya's Portfolio
+# Cristóbal Riffo Araya's Profile
 
 Welcome to my GitHub portfolio! This repository serves as a showcase of my projects, skills, and experience in Web Developer.
 
